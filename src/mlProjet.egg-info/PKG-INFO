@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mlProjet
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Jeevanmerkaji/MLOps-DataScience
+Author: Jeevanmerkaji
+Author-email: jeevanms18@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Jeevanmerkaji/MLOps-DataScience/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# MLOps-DataScience
+End-to-End MLops project using MLflow
+
+
