@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git_demo/MLOps-DataScience/mlruns/0/d521d24aeb414a1dbbb7ea08c1951bfe/artifacts
+end_time: 1704651806798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d521d24aeb414a1dbbb7ea08c1951bfe
+run_name: polite-ram-604
+run_uuid: d521d24aeb414a1dbbb7ea08c1951bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704651787416
+status: 3
+tags: []
+user_id: jeeva

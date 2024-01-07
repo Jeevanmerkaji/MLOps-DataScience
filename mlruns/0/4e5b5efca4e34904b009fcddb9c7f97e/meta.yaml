@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git_demo/MLOps-DataScience/mlruns/0/4e5b5efca4e34904b009fcddb9c7f97e/artifacts
+end_time: 1704652049675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e5b5efca4e34904b009fcddb9c7f97e
+run_name: rogue-fowl-888
+run_uuid: 4e5b5efca4e34904b009fcddb9c7f97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704652031617
+status: 3
+tags: []
+user_id: jeeva

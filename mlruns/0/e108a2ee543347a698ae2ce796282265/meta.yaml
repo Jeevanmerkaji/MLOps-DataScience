@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git_demo/MLOps-DataScience/mlruns/0/e108a2ee543347a698ae2ce796282265/artifacts
+end_time: 1704651186979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e108a2ee543347a698ae2ce796282265
+run_name: big-squirrel-681
+run_uuid: e108a2ee543347a698ae2ce796282265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704651167894
+status: 3
+tags: []
+user_id: jeeva
